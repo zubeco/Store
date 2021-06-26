@@ -12,8 +12,6 @@ import d1 from '../../src/images/d1.jpg';
 import d2 from '../../src/images/d2.jpg';
 import d3 from '../../src/images/d3.jpg';
 import './HomePage.css';
-import "slick-carousel/slick/slick.css"; 
-import "slick-carousel/slick/slick-theme.css";
 import CurrencyFormat from 'react-currency-format';
 import ReactStars from "react-rating-stars-component";
 import Footer from './Footer';
