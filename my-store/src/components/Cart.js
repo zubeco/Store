@@ -1,6 +1,6 @@
 import React,{useContext} from 'react'; 
 import { ShopContext } from '../context/ShopContext';
-import {SideDrawer,Row,Col,Text, Anchor} from 'atomize';
+import {SideDrawer,Row,Col,Text} from 'atomize';
 import CurrencyFormat from 'react-currency-format';
 import './Cart.css';
 
